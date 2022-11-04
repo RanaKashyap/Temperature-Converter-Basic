@@ -7,4 +7,4 @@
  Date: November 4, 2022
  Languages used: HTML, CSS, JavaScript
 
- !(https://github.com/RanaKashyap/Temperature-Converter-Basic/preview.png?raw=true)
+ !preview(https://github.com/RanaKashyap/Temperature-Converter-Basic/preview.png?raw=true)
