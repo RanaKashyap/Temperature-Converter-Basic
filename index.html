@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js"></script>
+    <title>Temperature Converter</title>
+</head>
+
+<body>
+    <div>
+        <a href="https://github.com/RanaKashyap" target="_blank"><h1 class="title"> Temperature Converter </h1></a>
+    </div>
+
+    <div>
+        <div class="content">
+            <input id="kelOutput" type="number" class="textInput" placeholder="Kelvins" oninput="fromKelvin(this.value)"
+                onchange="fromKelvin(this.value)">
+            <h1 class="tempTitle">
+                <span style="opacity: 0;">&#176;</span> K
+            </h1>
+        </div>
+        <div class="content">
+            <input id="celOutput" type="number" class="textInput" placeholder="Celsius"
+                oninput="fromCelsius(this.value)" onchange="fromCelsius(this.value)">
+            <h1 class="tempTitle">
+                <span>&#176;</span> C
+            </h1>
+        </div>
+        <div class="content">
+            <input id="fahOutput" type="number" class="textInput" placeholder="Fahrenheit"
+                oninput="fromFahrenheit(this.value)" onchange="fromFahrenheit(this.value)">
+            <h1 class="tempTitle">
+                <span>&#176;</span> F
+            </h1>
+        </div>
+        
+        <div class="linkContent">
+            <a class="links" href="https://www.linkedin.com/in/kashyaprana321/" target="_blank"
+                style="justify-content: center; display: flex; align-items: center;">LinkedIn</a>
+            <a class="links" href="https://github.com/RanaKashyap" target="_blank"
+                style="justify-content: center; display: flex; align-items: center;">GitHub</a>
+        </div>
+    </div>
+</body>
+
+</html>
