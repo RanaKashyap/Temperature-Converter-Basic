@@ -6,3 +6,5 @@
  Made by: Kashyap Rana
  Date: November 4, 2022
  Languages used: HTML, CSS, JavaScript
+
+ ![alt text](https://github.com/RanaKashyap/Temperature-Converter-Basic/preview.png?raw=true)

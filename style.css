@@ -6,7 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #D0B0B0;
     text-align: center;
-    font-size: 5em;
+    font-size: 7.5vw;
 }
 
 .title:hover {
@@ -15,7 +15,7 @@ body {
 
 .tempTitle {
     color: white;
-    font: 4rem 'Fira Sans', sans-serif;
+    font: 2rem 'Fira Sans', sans-serif;
     text-align: center;
     align-self: center;
     font-weight: bold;
@@ -24,12 +24,11 @@ body {
 .textInput {
     color: white;
     font-weight: bold;
-    font-size: 2.5em;
-    margin: 1em 1em;
+    font-size: 4vw;
+    margin: .3em .1em;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0.2em 0.2em;
     box-sizing: content-box;
-    width: 25%;
     display: flex;
     align-items: center;
     justify-content: center;
